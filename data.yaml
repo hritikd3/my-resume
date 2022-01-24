@@ -1,0 +1,98 @@
+# BIO
+bio:
+  name: Hritik Dangi
+
+  email: hritikdangi3@gmail.com
+  github:
+    username: hritikd3
+    link: https://github.com/hritikd3
+  linkedin:
+    username: hritikd3
+    link: https://www.linkedin.com/in/hritikd3/
+  dob: 2 Oct 2001
+  website:
+    name: hritik dangi
+    link: https://hritikdangi.vercel.app
+  # last_updated: 1 Jan 2022
+
+# EDUCATION
+education:
+  - institution: School of Computer Science & IT,DAVV
+    degree: BCA
+    duration: 2019 - 2022 (Present)
+
+    note:
+  - institution: Sarafa Vidya Niketan School, Indore
+    degree: CBSE Standard 12, PCM
+    duration: 2017 - 2019
+
+# SKILLS
+skills:
+  - title: Programming Languages
+    value: "Java, JavaScript , C/C++ "
+  - title: Tools and Technologies
+    value: Git, ReactJS, NodeJS, HTML, CSS, TailwindCSS, Material UI, Bootstrap, SQL
+  - title: Digital Expertise
+    value: SEO , PPC Marketing, Brand bidding , lead generation , graphic designing.
+# WORK EXPERIENCE
+work_experience:
+  - title: Web Design Intern, Website Wale Bhaiya
+    subtitle: "Founder: Akash Yadav"
+    duration: May’ 21 - Oct’ 21
+    links:
+      - name: Website
+        link: https://websitewalebhaiya.com/
+    tech_stack: Wix,CSS3, JavaScript.
+    bullets:
+      - Redesigned and constructed the official website of the company that brought 120+ new users
+      - Managed Google Ads campaign.
+
+  - title: PPC Advertising(Freelance), Clickbank
+    duration: Jun 20 - Oct’ 21
+    tech_stack: SEO, Google Adwords, Google Analytics
+    bullets:
+      - Created Landing pages which brought 200+ Users and out of which Actual Leads get converted
+      - Ran multiple Google Ads, Bing Ads and generate traffic for conversions
+
+      # PROJECTS
+projects:
+  - title: APIopedia
+    links:
+      - name: LiveProject
+        link: https://apiopedia.netlify.app/
+      - name: GitHub
+        link: https://github.com/hritikd3/APIopedia
+    bullets:
+      - Designed and developed a collective list of Free APIs, it contains majorly all Public APIs
+    tech_stack: HTML,CSS, VanillaJs , Bootstrap
+  - title: Covid Tracker
+    links:
+      - name: LiveProject
+        link: https://govaccination.netlify.app/
+      - name: GitHub
+        link: https://github.com/Arjunpatidar9575/frontend-design
+    tech_stack: ReactJS, HTML,CSS
+    bullets:
+      - Covid Tracker helps to get latest updates of Covid-19 active and recovered cases & also shows the avialability of slots
+      - It fetches the API from ApiSetu.gov
+      - Coded the homepage, aboutus and Designed the UI.
+      - Mentored new members on the web development team.
+  - title: Coinskart
+    links:
+      - name: LiveProject
+        link: https://coinskart.netlify.app/
+      - name: GitHub
+        link: https://github.com/hritikd3/Coinskart
+    tech_stack: HTML,CSS,VanillaJs, Bootstrap, APIs, Sawo Labs
+    bullets:
+      - Coinkart is a NFT-Marketplace which provides you related information of NFT and exchanges and fetches crypto from CryptoApi
+      - Designed the whole UI and deployed it on Netlify. The Authorisation is maintained using Sawo Labs API
+  - title: Cash Register Manager
+    links:
+      - name: LiveProject
+        link: https://hritik-cashregister.netlify.app/
+      - name: GitHub
+        link: https://github.com/hritikd3/MArk10-cashRegisterManager
+    tech_stack: HTML,CSS,VanillaJs
+    bullets:
+      - A VanillaJs Web App helps to find the exact cash to return .
